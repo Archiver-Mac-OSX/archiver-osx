@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/asdasfgdf">  
+<a href="https://get-software-osx.github.io/.github/archivermac">  
 <img src="https://img.shields.io/badge/Get_Archiver_for_macOS-darkblue?style=for-the-badge&logo=apple" alt="Get Archiver for macOS">  
 </a>  
 </div>  
